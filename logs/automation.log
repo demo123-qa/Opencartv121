@@ -1,0 +1,387 @@
+23:43:23.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.710 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.727 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.739 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.770 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.786 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.798 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.822 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.836 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.851 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.884 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.902 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.919 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.936 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.937 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.963 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:23.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:43:23.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:43:23.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:43:23.994 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:43:24.028 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+23:43:29.667 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+23:43:29.679 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+23:43:31.792 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+23:43:44.642 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+23:43:44.652 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+23:43:57.587 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+23:43:57.596 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+23:44:10.462 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+23:46:39.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\AppData\Local\Temp\testng-eclipse-1727243353\testng-customsuite.xml"
+23:46:40.120 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.123 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.129 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+23:46:40.147 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+23:46:40.149 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.155 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.160 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.162 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:46:40.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:46:40.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse-1727243353\testng-customsuite.xml
+
+23:46:40.195 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+23:46:40.787 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1c3146bc: 144 ms
+23:46:40.811 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2f6e28bc: 24 ms
+23:46:40.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6bea52d4: 21 ms
+23:46:40.843 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c541c15: 10 ms
+23:46:40.853 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c1bd0be: 10 ms
+23:46:40.853 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@476b0ae6: 0 ms
+00:09:57.122 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml"
+00:09:57.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml
+
+00:10:02.537 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+00:10:05.685 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+00:10:57.486 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml"
+00:10:57.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml
+
+00:11:00.888 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+00:11:01.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+00:11:01.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+00:11:01.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+00:11:04.513 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+00:11:04.562 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+00:11:06.843 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+00:11:09.135 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+21:57:47.308 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml"
+21:57:47.802 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml
+
+21:57:56.787 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+21:57:56.928 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+21:57:57.373 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+21:57:57.376 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+21:57:59.717 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+21:57:59.759 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+21:58:01.950 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+21:58:04.271 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+22:02:30.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml"
+22:02:30.767 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml
+
+22:02:33.717 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+22:02:33.892 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+22:02:34.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+22:02:34.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+22:02:37.396 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+22:02:37.439 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+22:02:39.604 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+22:11:16.531 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\test-output\testng-failed.xml"
+22:11:16.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\test-output\testng-failed.xml
+
+22:11:20.753 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+22:11:23.453 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+00:43:19.204 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+00:43:19.830 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+00:44:04.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml"
+00:44:04.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\grouping.xml
+
+00:48:22.087 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+00:48:22.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+00:52:33.712 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+00:52:34.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+00:57:09.781 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+00:57:10.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+00:57:18.202 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+00:57:18.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+00:57:18.825 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+00:57:18.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+00:57:22.333 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+00:57:22.415 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+00:57:25.434 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+00:57:27.725 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+00:59:02.184 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+00:59:02.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:00:45.713 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:00:46.120 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:01:20.685 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:01:21.080 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:02:26.484 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:02:27.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:04:34.609 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:04:35.168 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:07:03.260 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:07:03.572 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:08:10.383 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:08:10.691 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:09:13.125 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:09:13.429 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:09:35.159 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:09:35.359 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:09:35.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:09:35.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:09:36.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+01:09:36.214 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:09:36.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+01:09:36.491 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:09:40.479 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+01:09:40.480 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+01:09:40.576 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+01:09:40.576 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+01:09:44.221 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+01:09:44.998 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+01:09:47.714 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+01:09:48.576 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+01:10:24.160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+01:10:24.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+01:10:27.754 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:10:27.928 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:10:28.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+01:10:28.378 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:10:30.408 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+01:10:30.491 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+01:10:32.818 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+01:10:34.871 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+01:12:38.829 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+01:12:39.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\crossbrowsertesting.xml
+
+01:12:40.368 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:12:44.954 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:12:48.411 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:12:49.458 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+01:12:49.487 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:12:55.325 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+01:12:55.423 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+01:12:55.472 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:24:18.549 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\crossbrowsertesting.xml"
+01:24:18.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\crossbrowsertesting.xml
+
+01:24:28.109 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:24:28.903 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:24:29.097 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:24:29.194 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:25:11.955 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+01:25:12.218 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+01:25:13.474 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+01:25:13.478 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01:25:17.488 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+01:25:17.523 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+10:56:55.542 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+10:56:56.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+10:57:05.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:05.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:05.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:06.930 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.210 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.213 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.216 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.258 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.304 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.306 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.340 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.504 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.557 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.603 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.633 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.670 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.751 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.903 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:07.951 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:07.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:07.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:07.981 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.057 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.194 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.229 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.253 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.295 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.313 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.356 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.374 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.422 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:57:08.448 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:57:08.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:57:08.469 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:57:08.558 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+10:57:14.073 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+10:57:14.171 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+10:57:17.288 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+10:57:31.604 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+10:57:31.614 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+10:57:45.013 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+10:57:45.027 [main] INFO  testCases.TC003_LoginDDT - *** Started TC003_LoginDDT***
+10:57:58.443 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT***
+10:58:48.855 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+10:58:49.477 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+10:58:53.495 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+10:58:55.953 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+10:59:21.060 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+10:59:21.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+10:59:25.373 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+10:59:25.526 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+10:59:25.943 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+10:59:25.946 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:59:28.423 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+10:59:28.505 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+10:59:48.203 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+10:59:48.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\Opencartv121\master.xml
+
+10:59:53.175 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+10:59:53.317 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+10:59:53.772 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+10:59:53.775 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+10:59:55.867 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+10:59:55.921 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+10:59:59.129 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+11:00:00.983 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+11:32:58.344 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+11:33:04.294 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+11:33:04.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+11:33:04.939 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+11:33:04.943 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+11:33:08.083 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+11:33:08.146 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+11:33:12.483 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+11:33:15.514 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+12:04:32.434 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+12:04:38.009 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+12:04:38.177 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+12:04:39.147 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:04:39.194 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:04:40.997 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+12:04:41.047 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+12:04:42.939 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+12:04:45.119 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
+12:21:24.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\hp\eclipse-workspace\Opencartv121\master.xml"
+12:21:27.992 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest******
+12:21:28.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount
+12:21:28.510 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register
+12:21:28.514 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+12:21:30.474 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message..
+12:21:30.518 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest
+12:21:32.749 [main] INFO  testCases.TC002_LoginTest - ****TC002_LoginTest Started****
+12:21:34.346 [main] INFO  testCases.TC002_LoginTest - *** Finishing TC002_LoginTest Started***
